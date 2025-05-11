@@ -13,12 +13,13 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 2. Förstå hur moduler importeras och används (core, externa och egna)
 3. Kunna skapa ett REST API med flera endpoints
 4. Förstå hur JSON används som dataformat vid HTTP-kommunikation
-5. Samarbeta i par eller grupp för att lösa uppgifter i Express
 
 ## Resurser
 
 ### Presentationer
 
+* [01 - Kursintro](https://docs.google.com/presentation/d/1cno5p3MZNzU1k_AwujohPTyFkLEq2cd_/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [02 - Intro till Express](https://docs.google.com/presentation/d/13onMi2u1iAMmKsGmTE0Ex6uw9NZIjlzT/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -29,7 +30,7 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 * [01 - Intro Node.js](https://vimeo.com/807411701/7a18cffca2) - till måndag
 * [02 - API med Express - koncept](https://vimeo.com/807411951/c7161c2d55) - till måndag
 * [03 - API med Express - kodexempel](https://vimeo.com/807412052/79ad1cf028) - till måndag
-* [04 - REST API](https://vimeo.com/809659071/860888cacb) - till måndag
+* [04 - REST API](https://vimeo.com/809659071/860888cacb) - till tisdag
 
 ### Lektionsrepon
 
