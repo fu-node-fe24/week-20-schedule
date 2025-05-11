@@ -34,6 +34,9 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 
 ### Lektionsrepon
 
+* [12 april](https://github.com/fu-node-fe24/week-20-lecture-12-april)
+* [13 april](https://github.com/fu-node-fe24/week-20-lecture-13-april)
+* [14 april](https://github.com/fu-node-fe24/week-20-lecture-14-april)
 
 ### Filmer
 
@@ -43,13 +46,11 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 * [Node.js download](https://nodejs.org/en)
 * [Express.js dokumentation](https://expressjs.com/)
 * [18 most common http status codes](https://drive.google.com/file/d/14l7MH9Zc4aGR9hJVHt6V0W1oAeKUTf5E/view?usp=sharing)
+* [Understanding and using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+* [How a RESTful API server reacts to requests](https://www.oreilly.com/content/how-a-restful-api-server-reacts-to-requests/)
 
 
 ### Övningar 
 
-
-
-
-
-
-
+* [Express Bootcamp](https://github.com/fu-node-fe24/week-20-exercise-express-bootcamp)
+* [REST API Bootcamp](https://github.com/fu-node-fe24/week-20-exercise-api-bootcamp/tree/main) - veckans Code Review-uppgift
