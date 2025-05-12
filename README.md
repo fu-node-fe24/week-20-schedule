@@ -24,9 +24,9 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 ### Inspelade föreläsningar
 
 **LIVE**
-* [Kursintro]() - Inte inlagd ännu
+* [Kursintro](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EcVG0TNZuZ9OsPvvO8_w7WQB9UBZZ9-b2vEIoWzTJi6Stw?e=HMDCNe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * [Intro Node och Express, 12 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EeWq_0dhcZFDrf01JGQQZKIBSbbfdWwRtvWumC48PBG4iQ?e=Alhei0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* [Fördjupning Node och Express, 12 maj]() - Inte inlagd ännu
+* [Fördjupning Node och Express, 12 maj](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/ERibHKdYE8ZEntrK9Qg_8X4Br7GTM9Il-sK37Jxj3qINGg?e=xpMQAP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (för distansklassen)
 
