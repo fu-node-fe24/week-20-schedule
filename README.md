@@ -24,6 +24,9 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 ### Inspelade föreläsningar
 
 **LIVE**
+* [Kursintro]() - Inte inlagd ännu
+* [Intro Node och Express, 12 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EeWq_0dhcZFDrf01JGQQZKIBSbbfdWwRtvWumC48PBG4iQ?e=Alhei0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Fördjupning Node och Express, 12 maj]() - Inte inlagd ännu
 
 **Förinspelat** (för distansklassen)
 
