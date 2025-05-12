@@ -34,9 +34,9 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 
 ### Lektionsrepon
 
-* [12 april](https://github.com/fu-node-fe24/week-20-lecture-12-april)
-* [13 april](https://github.com/fu-node-fe24/week-20-lecture-13-april)
-* [14 april](https://github.com/fu-node-fe24/week-20-lecture-14-april)
+* [12 maj](https://github.com/fu-node-fe24/week-20-lecture-12-maj)
+* [13 maj](https://github.com/fu-node-fe24/week-20-lecture-13-maj)
+* [14 maj](https://github.com/fu-node-fe24/week-20-lecture-14-maj)
 
 ### Filmer
 
