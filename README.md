@@ -18,7 +18,7 @@ När du är klar med denna modul kommer du kunna skapa egna API-endpoints som fr
 
 ### Presentationer
 
-* [01 - Kursintro](https://docs.google.com/presentation/d/1cno5p3MZNzU1k_AwujohPTyFkLEq2cd_/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [01 - Kursintro](https://docs.google.com/presentation/d/1_orrDKp8Nkl4lYekqOIBjjvKnB4Zx6Gp/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [02 - Intro till Express](https://docs.google.com/presentation/d/13onMi2u1iAMmKsGmTE0Ex6uw9NZIjlzT/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
